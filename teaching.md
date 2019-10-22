@@ -4,4 +4,4 @@ title: Teaching
 permalink: /teaching/
 ---
 
-1234 "Course name" [juj](course/1234.md)
+1234 "Course name" [juj](1234.md)
