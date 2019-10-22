@@ -4,4 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
-1234 "Course name" [ii1](course/1234.md)
+## Fall 2019
+
+STA1234 [Course name](course/1234.md)
+
+## Previous
+
+STA5678 [Course name](course/1234.md)
+STA9012 [Course name](course/1234.md)
