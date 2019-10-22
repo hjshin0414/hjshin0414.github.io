@@ -4,4 +4,4 @@ title: Teaching
 permalink: /teaching/
 ---
 
-1234 "Course name" [iii](_posts/2016-05-20-welcome-to-jekyll.md)
+1234 "Course name" [ii1](course/1234.md)
