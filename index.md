@@ -7,6 +7,6 @@
 #
 layout: home
 ---
-# Hi
+Hi
 
 Heejun Shin
