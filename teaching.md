@@ -4,8 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Fall 2016
+## Fall 2019	## Fall 2016
 
-A [name](course/1234.md)
+
+<!--STA1234 [Course name](course/1234.md)-->
+
 
 ## Previous
