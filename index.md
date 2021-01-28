@@ -7,6 +7,4 @@
 #
 layout: home
 ---
-Hi,
-
-I am something something.
+Hi.
